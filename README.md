@@ -12,4 +12,6 @@ I have attached a detailed guide on how to get this exact rice on your preferred
 1. Install these packages:
 ``alacritty waybar htop cava zsh git``
 
-```
+Note: If you are using arch linux, you can do ``sudo pacman -S --needed base-devel git`` instead to install git and the packages we need to build yay later.
+
+2. 
