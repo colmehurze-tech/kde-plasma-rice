@@ -25,7 +25,11 @@ Note: If you are using arch linux, you can do ``sudo pacman -S --needed base-dev
 4. Copy my config files over to your user config folder:
 
 ``cd kde-plasma-rice``
+
 ``cp -r .config/alacritty ~/.config/alacritty``
+
 ``cp -r .config/waybar ~/.config/waybar``
+
 ``cp -r .config/rofi ~/.config/rofi``
+
 ``cp -r .config/cava ~/.config/cava``
