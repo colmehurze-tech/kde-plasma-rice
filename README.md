@@ -10,4 +10,6 @@ I have attached a detailed guide on how to get this exact rice on your preferred
 ## Getting Started:
 
 1. Install these packages:
+``alacritty waybar htop cava zsh git``
 
+```
