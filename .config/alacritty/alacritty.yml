@@ -1,0 +1,52 @@
+window:
+  opacity: 0.9
+  decorations: none
+  padding:
+    x: 5
+    y: 0
+
+
+
+scrolling:
+  # Maximum number of lines in the scrollback buffer.
+  # Specifying '0' will disable scrolling.
+  history: 10000
+
+  # Scrolling distance multiplier.
+  multiplier: 3
+
+# Font configuration
+font:
+  # Normal (roman) font face
+  normal:
+    family: RobotoMono Nerd Font
+
+    style: Regular
+
+  # Bold font face
+  bold:
+    family: RobotoMono Nerd Font
+
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: RobotoMono Nerd Font
+
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: RobotoMono Nerd Font
+
+    style: Bold Italic
+
+  size: 10
+
+colors:
+
+  primary:
+    background: '#1e1e2e'
+    foreground: '#b4befe'
+
+

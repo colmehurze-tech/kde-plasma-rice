@@ -3,6 +3,10 @@ My First Arch Linux KDE Plasma Rice.
 
 I have attached a detailed guide on how to get this exact rice on your preferred linux distro. Please note that being on an Arch Based distro gives you an advantage as you can use package managers like yay to install dependencies quickly.
 
+
+
+![Screenshot of my rice](rice.png)
+
 ## Pre-Requisites ✅:
 1. Any Linux Based distribution running KDE plasma version 5 and above, on wayland.
 2. Atleast 1gb ram and 15-20gb storage. My rice uses around 800-900MB ram on idle.
@@ -54,7 +58,7 @@ If you are on Arch Linux, you can install the ``catppuccin-gtk-theme-mocha`` pac
 
 3. Install oh-my-posh using the instructions on [oh-my-posh-link](https://ohmyposh.dev/docs/installation/linux).
 
-4. Copy my zsh themes using ``mkdir -p .zsh.d && cp -r .zsh.d/ ~/.zsh.d/``
+4. Copy my zsh themes using ``mkdir -p ~/.zsh.d && cp -r .zsh.d/ ~/.zsh.d/``
 
    Note: I have set zsh to use the atomic theme by default, and there are some other themes included in my rice. Obviously, you are not limited to those and can look up new themes at [zsh-themes-link](https://ohmyposh.dev/docs/themes)
    
@@ -66,6 +70,12 @@ If you are on Arch Linux, you can install the ``catppuccin-gtk-theme-mocha`` pac
 
    Note: You can change the colour of the fastfetch logo by editing the line ``alias arch="fastfetch --color yellow --logo-color-1 red --logo-color-2 yellow"``. Set the logo colours to your preffered colours. 
 
+## Configuring the KDE plasma taskbar ⚡:
+
+I have shortened the taskbar, and removed useless stuff from it to give it a clean dock-like look. You are obviously free to design around the taskbar in any way you wish, and I have included the black Arch Linux icon I'm using in my repo, in case you need that. 
+
 ## Final Words ✨: 
 
 Congrats on sucessfully installing my rice! You can look around my config files and tinker around a bit to customize further. I have included the wallpaper I have used in the screenshot as well, so feel free to use it. 
+
+P.S.: If you're wondering what that music bars terminal program thingy I'm using, it's called ``cava``. I have already made you install it :)

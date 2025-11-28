@@ -1,0 +1,32 @@
+[colors.primary]
+background = "#1e1e2e"
+foreground = "#b4befe"
+
+[font]
+size = 10
+
+[font.bold]
+family = "RobotoMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "RobotoMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "RobotoMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "RobotoMono Nerd Font"
+style = "Regular"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+decorations = "none"
+opacity = 0.9
+
+
