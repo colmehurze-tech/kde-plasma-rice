@@ -33,3 +33,7 @@ Note: If you are using arch linux, you can do ``sudo pacman -S --needed base-dev
 ``cp -r .config/rofi ~/.config/rofi``
 
 ``cp -r .config/cava ~/.config/cava``
+
+5. Open the KDE-plasma system settings app, search for Window Management, click on K-win Scripts. Then click "get new scripts" and search for "Krohnkite". Then Install it. Click the toggle icon to configure Krohnkite. Click the geometry tab, and set the spacing between tiles to 5px. Then close the config window, check Krohnkite, and click Apply. You should have a tiling window management similar to hyprland now.
+
+Note: If you want you can set a shortcut for the alacritty terminal, via the KDE system settings app. I personally set it to Meta+space, since Meta+Return is used by some Krohnkite process, and I did not want to mess with that.
