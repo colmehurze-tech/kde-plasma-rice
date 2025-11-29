@@ -74,6 +74,8 @@ If you are on Arch Linux, you can install the ``catppuccin-gtk-theme-mocha`` pac
 
 I have shortened the taskbar, and removed useless stuff from it to give it a clean dock-like look. You are obviously free to design around the taskbar in any way you wish, and I have included the black Arch Linux icon I'm using in my repo, in case you need that. 
 
+You can set waybar to automatically start when KDE plasma starts up, using the system settings app. That way you don't need to explicitly start waybar again and again.
+
 ## Final Words ✨: 
 
 Congrats on sucessfully installing my rice! You can look around my config files and tinker around a bit to customize further. I have included the wallpaper I have used in the screenshot as well, so feel free to use it. 
